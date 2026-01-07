@@ -7,7 +7,6 @@
 2. Sign up or log in
 3. Open **Dashboard**
 4. Copy your **API Key**
-5. Make sure **Fraud Detection** is enabled for your account
 
 ---
 
